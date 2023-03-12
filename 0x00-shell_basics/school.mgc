@@ -1,2 +1,2 @@
 #!/bin/bash
-SCHOOLSchool dataSchool
+file -m magic.mgc school
